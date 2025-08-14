@@ -3,7 +3,12 @@ This repo lists various community created tools for claude code to make life eas
 
 Add a PR to add yours
 
-## Status Line
-** [Claude Powerline](https://github.com/Owloops/claude-powerline)
+## Add better Status Line
+** [Claude Powerline](https://github.com/Owloops/claude-powerline) A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, and custom themes.
 
-## Usage
+## Track Usage
+
+## MCP Tools
+** [mathom](https://github.com/stephenlacy/mathom) Local-first MCP platform with OAuth2 for running and monitoring your servers
+
+List maintained by [Harish Garg](https://harishgarg.com)
