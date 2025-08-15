@@ -2,6 +2,8 @@
 
 A curated collection of community-created tools to enhance your Claude Code experience. Whether you're tracking usage, managing projects, or running Claude Code in different environments, you'll find the right tool here.
 
+💡 This list is also available in a user-friendly searchable UX at [codeaidirectory.com](https://www.codeaidirectory.com/)
+
 ---
 
 ## 📊 Usage Analytics & Monitoring
